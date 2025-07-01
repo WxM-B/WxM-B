@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm B!
 
-<!--
-**WxM-B/WxM-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B is a rapper from Wrexham, Wales, UK.**
+Known for [briefly describe your musical style or mission, e.g., "blending insightful lyrics with dynamic beats."].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find B's Music & Connect:
+
+* **Official Website:** [https://wxm-b.github.io/](https://wxm-b.github.io/)
+* **Spotify:** https://open.spotify.com/artist/3GZvZ4nMuoQiaOc5ljnaxY?si=Og6YY3UQQsuP9QBQLGQTHQ
+* **YouTube:** https://www.youtube.com/@WxM.B
+* **Genius:** https://genius.com/artists/B-wxm
+* **Instagram:** [@wxm.b](https://instagram.com/wxm.b)
+* **GitHub (Code/Dev):** [@B-WxM](https://github.com/B-WxM)
+
+--
