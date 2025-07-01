@@ -1,0 +1,6 @@
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Optional: Point to your sitemap
+Sitemap: https://wxm-b.github.io/sitemap.xml
