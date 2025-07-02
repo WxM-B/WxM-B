@@ -1,7 +1,7 @@
 # Hi, I'm B!
 
 **B is a rapper from Wrexham, Wales, UK.**
-Known for [briefly describe your musical style or mission, e.g., "blending insightful lyrics with dynamic beats."].
+Known for, this!
 
 ---
 
