@@ -12,6 +12,6 @@ Known for, this!
 * **YouTube:** https://www.youtube.com/@WxM.B
 * **Genius:** https://genius.com/artists/B-wxm
 * **Instagram:** [@wxm.b](https://instagram.com/wxm.b)
-* **GitHub (Code/Dev):** [@B-WxM](https://github.com/B-WxM)
+* **GitHub (Code/Dev):** [@B-WxM](https://github.com/WxM-B)
 
 --
